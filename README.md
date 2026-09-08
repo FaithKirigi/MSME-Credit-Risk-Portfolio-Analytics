@@ -228,8 +228,7 @@ msme-credit-risk-analytics/
 │
 ├── README.md
 │
-├── src/
-│   └── msme_credit_risk_analysis.py
+├──msme_credit_risk_analysis.py
 │
 ├── outputs/
 │   ├── financial_model_results.csv
@@ -240,10 +239,7 @@ msme-credit-risk-analytics/
 │   ├── model_risk_drivers.csv
 │   └── illustrative_risk_based_pricing.csv
 │
-├── presentation/
-│   └── MSME_Credit_Risk_Assessment.pdf
+├──  MSME_Credit_Risk_Assessment.pdf
 │
-├── docs/
-│   └── Executive_Summary.pdf
-│
-└── requirements.txt
+├──  Executive_Summary.pdf
+
