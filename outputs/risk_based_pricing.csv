@@ -1,0 +1,4 @@
+cluster,risk_segment,share,relative_risk,recommended_monthly_price
+0,"Lower activity, relatively stable",0.421,0.754,6.98
+1,"High activity/volume, moderate volatility",0.519,1.029,9.52
+2,Higher-value but highly volatile,0.06,2.472,22.87

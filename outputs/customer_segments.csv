@@ -1,0 +1,4 @@
+Scenario,Borrowers,Monthly Revenue,Exposure,Default Rate,LGD,Expected Loss,Monthly Contribution,Annual Contribution,3-Year Contribution,3-Year Net Return,3-Year ROI,Payback Months
+Optimistic,22000,198000,2200000,0.04,0.4,35200,162800,1953600,5860800,1360800,0.3024,27.64127764
+Base,20000,160000,2000000,0.06,0.5,60000,100000,1200000,3600000,-900000,-0.2,45
+Pessimistic,18000,126000,1800000,0.1,0.6,108000,18000,216000,648000,-3852000,-0.856,250

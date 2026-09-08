@@ -1,0 +1,4 @@
+cluster,transaction_frequency,avg_transaction_amount,monthly_transaction_volume,cash_flow_volatility,repayment_ratio,avg_risk_score,risk_segment,customer_count
+0,16.85,1593.13,26559.93,1510.96,0.19,1493.9147638276281,"Lower activity, relatively stable",421
+1,38.9,1829.29,70522.75,2077.36,0.18,2038.2779169731386,"High activity/volume, moderate volatility",519
+2,18.67,3157.84,55638.76,4915.05,0.18,4896.20892589711,Higher-value but highly volatile,60
